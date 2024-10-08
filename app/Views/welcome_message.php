@@ -61,9 +61,9 @@
 
                     <div class="mx-auto pt-5 col-8 col-sm-9 col-md-3 col-lg-3 col-xl-3">
                         <h3 class = "fw-bold cyan">Contacts</h3>
-                        <p><i class="fa fa-home me-3" aria-hidden="true"></i>P. Paredes St, Sampaloc, Manila, 1015 Metro Manila</p>
-                        <p><i class="fa fa-envelope me-3" aria-hidden="true"></i>group1@email.com</p>
-                        <p><i class="fa fa-phone me-3" aria-hidden="true"></i>63+ 900-000-0000</p>
+                        <p><i class="fa fa-home me-3" aria-hidden="true"></i>157 Epifanio de los Santos Ave, Mandaluyong, Metro Manila, Philippines</p>
+                        <p><i class="fa fa-envelope me-3" aria-hidden="true"></i>guest@etihadguest.com</p>
+                        <p><i class="fa fa-phone me-3" aria-hidden="true"></i>+63282483841</p>
                     </div>
                 </div>
             </div>
