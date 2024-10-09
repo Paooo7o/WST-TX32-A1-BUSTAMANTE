@@ -124,11 +124,20 @@
 
 #Intro p, #WhyUs p, #Flights p, #Deals p 
 {
-    font-size: 16px;
+    font-size: 18px;
     color: #c5941b;
     line-height: 1.5;
     margin-bottom: 15px;
     font-family: 'Roboto';
+}
+
+.carousel h3 
+{
+    font-size: 2em;
+    color: #c89c04;
+    text-align: center;
+    font-family: 'Roboto';
+    margin-bottom: 10px;
 }
 
 #WhyUs table 
@@ -170,8 +179,10 @@
 {
     width: 100%;
     padding: 10px;
+    text-align: center;
     border: 1px solid #f6e5d7;
     border-radius: 4px;
+    font-family: 'Roboto';
 }
 
 #Deals label 

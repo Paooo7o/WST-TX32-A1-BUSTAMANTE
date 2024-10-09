@@ -8,7 +8,12 @@
 
 <section id="AboutEtihad"></section>
 <h2>About Etihad</h2>
-<p>This is a paragraph about Etihad.</p>
+<p>Welcome to Etihad Airways, the national airline of the UAE. From our home in Abu Dhabi, we fly to passenger and cargo
+    destinations in the Middle East, Africa, Europe, Asia, Australia and North America. Together with our codeshare
+    partners, our network offers access to hundreds of international destinations in just one booking.
+
+    We believe that your journey with us should be more than just travel. We offer you a personalised experience, with
+    options and choices every step of the way.</p>
 </section>
 
 <section id="EthicsCompliance">

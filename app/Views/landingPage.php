@@ -79,7 +79,7 @@
 
 <section id="Flights">
     <h2>Flights</h2>
-    <div id="carouselFlights" class="carousel slide" data-ride="carousel">
+    <div id="carouselFlights" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <h3>Abu Dhabi</h3>
@@ -94,11 +94,11 @@
                 <p>Experience the charm of London with our unbeatable prices.</p>
             </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselFlights" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carouselFlights" role="button" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
-        <a class="carousel-control-next" href="#carouselFlights" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carouselFlights" role="button" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>
