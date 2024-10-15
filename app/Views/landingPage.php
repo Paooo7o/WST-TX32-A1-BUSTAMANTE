@@ -4,9 +4,9 @@
 
 <?= $this->include('components/landing/hero_section') ?>
 
-<div>
+<!-- <div>
     <h1>Landing</h1>
-</div>
+</div> -->
 
 <!-- section.hero>(.left>(h3>lorem3)+(p>lorem50))+.right>((h4>lorem5)+(p>lorem100))*3 -->
 
@@ -82,16 +82,19 @@
     <div id="carouselFlights" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <h3>Abu Dhabi</h3>
-                <p>Discover the beauty of Abu Dhabi with our exclusive deals.</p>
+            <!-- <img src="assets/images/AbuDhabi.jpg" class="d-block w-100" alt="Abu Dhabi"> -->
+            <h3>Abu Dhabi</h3>
+            <p>Discover the beauty of Abu Dhabi with our exclusive deals.</p>
             </div>
             <div class="carousel-item">
-                <h3>Manila</h3>
-                <p>Explore the vibrant city of Manila with our special offers.</p>
+            <!-- <img src="assets/images/Manila.jpg" class="d-block w-100" alt="Manila"> -->
+            <h3>Manila</h3>
+            <p>Explore the vibrant city of Manila with our special offers.</p>
             </div>
             <div class="carousel-item">
-                <h3>London</h3>
-                <p>Experience the charm of London with our unbeatable prices.</p>
+            <!-- <img src="assets/images/London.jpg" class="d-block w-100" alt="London"> -->
+            <h3>London</h3>
+            <p>Experience the charm of London with our unbeatable prices.</p>
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselFlights" role="button" data-bs-slide="prev">
